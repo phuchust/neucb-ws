@@ -1,0 +1,16 @@
+{
+  "name": "neucb-ws",
+  "version": "0.0.1",
+  "description": "Web Server is used for landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
+  },
+  "author": "KaiFugg",
+  "license": "MIT"
+}
